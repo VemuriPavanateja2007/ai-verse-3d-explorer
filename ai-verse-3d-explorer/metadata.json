@@ -1,6 +1,0 @@
-{
-  "name": "AI-Verse 3D Explorer",
-  "description": "Tactile, interactive 3D visualization and architectural exploration platform for AI models including DNNs, CNNs, Transformers, and LLMs.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
